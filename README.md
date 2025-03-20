@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=『無限抱擁』&fontAlign=27&fontAlignY=43&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=『無限抱擁』&fontAlign=27&fontAlignY=41&color=gradient)
 
 *Infinite Embrace* - 무한 포옹
 
