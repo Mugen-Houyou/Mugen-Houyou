@@ -2,7 +2,7 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=『無限抱擁』&fontAlign=27&fontAlignY=39&color=gradient)
 
-*Infinite Embrace* - 무한 포옹
+무한 포옹 - *Infinite Embrace*
 
 <!-- Body -->
 
